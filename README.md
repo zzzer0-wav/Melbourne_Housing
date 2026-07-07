@@ -27,6 +27,7 @@ Price distribution histogram, log-scale price distribution, price by property ty
 
 ## Project structure
 Melbourne_Housing/
+
 ├── data/
 
 │   └── melb_data.csv
