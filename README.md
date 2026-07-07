@@ -28,13 +28,21 @@ Price distribution histogram, log-scale price distribution, price by property ty
 ## Project structure
 Melbourne_Housing/
 ├── data/
+
 │   └── melb_data.csv
+
 ├── notebooks/
+
 │   └── melbourn_housing.ipynb
+
 |   └── melbourn_housing (group_notebook).ipynb
+
 ├── tasks/
+
 |   └── task.md
+
 |   └── task_medium.md
+
 └── README.md
 
 ## Tech Stack
