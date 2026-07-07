@@ -15,6 +15,12 @@ Built 6 new features: age, sale_year, sale_month, has_year_built, has_building_a
 
 Trained 3 models: DummyRegressor (baseline), LinearRegression, RandomForest (best: MAE $169k, R² 1.0)
 
+## Conclusions
+The Random Forest model predicts house price with MAE of 169,000$. Key findings: location is most important (20.9%), followed by property size (27%). Houses cost significantly more than units, and farther properties are cheaper. The model works well but may overfit to training data. Adding external features like school ratings or crime data could improve accuracy. The cleaned dataset and feature engineering provide a good foundation for price prediction.
+
+## Future Improvements
+The model could be improved by adding external features like school ratings, crime data, and public transport information. Since the dataset is from 2017, collecting more recent data would help reflect current market conditions. Advanced models like XGBoost or GradientBoosting might provide better predictions than RandomForest. Better handling of expensive properties over $3 million would prevent outliers from distorting results. Finally, using cross-validation instead of a single train-test split would give more robust evaluation of model performance.
+
 ## Visualization
 
 Price distribution histogram, log-scale price distribution, price by property type boxplot, correlation heatmap, top 15 feature importance bar chart.
