@@ -30,19 +30,19 @@ Melbourne_Housing/
 
 ├── data/
 
-│   └── melb_data.csv
+│     └── melb_data.csv
 
 ├── notebooks/
 
-│   └── melbourn_housing.ipynb
+│     └── melbourn_housing.ipynb
 
-|   └── melbourn_housing (group_notebook).ipynb
+|     └── melbourn_housing (group_notebook).ipynb
 
 ├── tasks/
 
-|   └── task.md
+|     └── task.md
 
-|   └── task_medium.md
+|     └── task_medium.md
 
 └── README.md
 
