@@ -1,4 +1,4 @@
-# Melbourne Housing - data cleanin & visualisation
+# Melbourne Housing - data cleaning & visualisation
 Project involving the cleaning of a “dirty” dataset of Melbourne Housing.
 
 Link: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
