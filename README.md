@@ -28,9 +28,9 @@ The model could be improved by adding external features like school ratings, cri
 ## Visualization
 
 Price distribution histogram, log-scale price distribution, price by property type boxplot, correlation heatmap, top 15 feature importance bar chart.
-![Distribution of housing prices](images/Distribution_of_housing_prices.png)
-![Logarithm distribution of housing prices](images/Logarithm_distribution_of_housing_prices.png)
-![Price of type appartments](images/Price_of_type_appartments.png)
+![Distribution of housing prices](<images/Distribution of housing prices.png>)
+![Logarithm distribution of housing prices](<images/Logarithm distribution of housing prices.png>)
+![Price of type appartments](<images/Price of type appartments.png>)
 
 
 ## Project structure
